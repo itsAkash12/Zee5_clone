@@ -32,11 +32,11 @@ This entire journey of making the project was awesome. I have learned lots of th
  
  - ## <span style="color:blue"> Login/Signup Page </span>
   
-![4](https://user-images.githubusercontent.com/107500115/199761863-f697398e-bac4-4830-a0d2-d80b0a03cfce.jpg)
+![5](https://user-images.githubusercontent.com/107500115/199761876-4f446a7a-7c3a-457e-9611-2c8101aa0642.jpg)
 
 - ## <span style="color:blue"> Premium Subscription </span>
   
-![5](https://user-images.githubusercontent.com/107500115/199761876-4f446a7a-7c3a-457e-9611-2c8101aa0642.jpg)
+![4](https://user-images.githubusercontent.com/107500115/199761863-f697398e-bac4-4830-a0d2-d80b0a03cfce.jpg)
 
 <br>
  <hr>
